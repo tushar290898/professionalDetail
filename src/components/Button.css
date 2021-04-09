@@ -1,0 +1,14 @@
+.button{
+    border: 1px solid lightgray !important;
+    background-color: white!important;
+    outline: none !important;
+    font-family: sans-serif !important;
+    text-decoration: none;
+    
+}
+
+.button:hover{
+    background-color: black !important;
+    color: white !important;
+    border-color: white !important;
+}

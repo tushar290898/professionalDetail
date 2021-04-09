@@ -1,0 +1,30 @@
+.Profile{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 500;
+    font-family: sans-serif;
+}
+
+
+.Card{
+    background-color:  rgb(255, 255, 128);
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 300px;
+    height: 400px;
+    margin:40px auto;
+    padding: 30px;
+    margin-top: 30px;
+    transition: transform 100ms ease-in;
+    cursor: pointer;
+
+}
+
+.Card:hover{
+    transform: scale(1.10);
+}
+
+image > img{
+    margin-bottom: 20px;
+    border-bottom: 1px solid lightgray;
+}
